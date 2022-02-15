@@ -2,6 +2,6 @@
 
 ```mermaid
 graph TD;
-  test-->TEST
-  TEST-->test
+  test-->debug
+  debug-->test
 ```
